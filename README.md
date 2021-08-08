@@ -1,7 +1,7 @@
-- 👋 Hi, I’m prathik kulkarni
+- 👋 Hi, I’m Prathik Kulkarni
 - 👀 I’m interested in learning Data Structures And Algorithms.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any type projects.
+- 💞️ I’m looking to collaborate on any type of projects.
 - 📫 How to reach me prathik8794@gmail.com
 
 <!---
